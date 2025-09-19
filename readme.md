@@ -50,12 +50,4 @@ Sixth commit from dev
 
 Seventh commit from 
 
-
-
-
-
-
-
-
-
 again from main
